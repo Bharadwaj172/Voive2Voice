@@ -1,0 +1,21 @@
+AI: Welcome to the complaint portal. Please let me know to which your problem belongs to. 1) Women/children related crime, 2) Financial crime, 3) Other cyber crime.
+You: two financial crime
+AI: You selected Financial crime. Let's start with some questions.
+AI: What is your name?
+You: smart watch
+AI: What is your phone number?
+You: 800852 9624
+AI: What is your gender?
+You: mel mel
+AI: What is your profession?
+You: working in an organisation
+AI: What is your address?
+You: hyderabad telangana
+AI: Thank you for answering all my questions. Here are the details you provided.
+{
+    "Name": "smart watch",
+    "Phone Number": "8008529624",
+    "Gender": "male",
+    "Profession": "working in an organisation",
+    "Address": "Hyderabad Telangana"
+}
